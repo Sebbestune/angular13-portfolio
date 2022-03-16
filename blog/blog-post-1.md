@@ -1,7 +1,9 @@
 ---
-title: Blog Post 1
-description: blog description
+title: 'Blog Post 1'
+description: 'blog description'
 published: false
+slugs:
+    - ___UNPUBLISHED___l0tmeroh_diZ0ik1HBqmPChCL5Ek9yLmZsd47uXUN
 ---
 
 # Blog Post 1
