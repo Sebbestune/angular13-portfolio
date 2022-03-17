@@ -3,7 +3,7 @@ name: Scully Publish to GH-Pages
 on:
   push:
     branches:
-      - gh-pages
+      - main
 
 jobs:
   build:
